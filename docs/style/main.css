@@ -34,6 +34,10 @@
     --docsifytabs-tab-highlight-color: purple;
   }
   
+  .app-name-link img{
+    width: auto !important;
+  }
+
   body:not(.ready) {
     overflow: scroll;
   }
