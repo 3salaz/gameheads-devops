@@ -11,7 +11,7 @@ Testing out some plugin down below, will be adding more soon that we can use wit
 > [!WARNING]
 > An alert of type 'note' using global style 'callout'.
 
-> [!ACTION]
+> [!ATTENTION]
 > An alert of type 'note' using global style 'callout'.
 
 ## Tabs 
