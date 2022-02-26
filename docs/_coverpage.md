@@ -6,7 +6,7 @@
 - Docs,Links,& Walkthroughs
 
 [Google Classroom](https://classroom.google.com/u/0/c/MzI0NzMzNDM1ODla)
-<a href="#/README">Material</a>
+<a href="#/README.md">Material</a>
 
 <!-- [Archive](#) -->
 

@@ -1,17 +1,29 @@
-# HEllo this is the home page
+# Hello, Testing 1,2,3
+
+Testing out some plugin down below, will be adding more soon that we can use within the lessons
 
 > [!NOTE]
 > An alert of type 'note' using global style 'callout'.
 
+> [!TIP]
+> An alert of type 'note' using global style 'callout'.
+
+> [!WARNING]
+> An alert of type 'note' using global style 'callout'.
+
+> [!ACTION]
+> An alert of type 'note' using global style 'callout'.
+
+## Tabs 
 <!-- tabs:start -->
 
 #### **English**
 
 Hello!
 
-#### **French**
+#### **Spanish**
 
-Bonjour!
+Hola!
 
 #### **Italian**
 
@@ -24,9 +36,9 @@ const a = 1;
 const b = 2;
 const c = 3;
 ```
-<div id="gitalk-container">
 
-</div>
+<div id="gitalk-container"></div>
+
 
 <script>
     const gitalk = new Gitalk({
