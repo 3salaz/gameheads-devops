@@ -17,17 +17,17 @@ Testing out some plugin down below, will be adding more soon that we can use wit
 ## Tabs 
 <!-- tabs:start -->
 
-#### **English**
+#### **Mac Setup**
 
-Hello!
+Instructions for mac users
 
-#### **Spanish**
+#### **Windows**
 
-Hola!
+Instructions for windows users
 
-#### **Italian**
+#### **Linux**
 
-Ciao!
+Instructions for linux users
 
 <!-- tabs:end -->
 

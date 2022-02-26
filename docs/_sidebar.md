@@ -11,5 +11,6 @@
     - [Databases](/courses/databases/_home.md)
     - [Networks](/courses/networks/_home.md)
     - [Security](/courses/security/_home.md)
-    
-- **📚 Setup**
+
+- **Setup**
+    - [InstallFest](/resources/setup/installFest.md)
