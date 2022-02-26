@@ -5,7 +5,7 @@
         - [Mac](/courses/devops/_home.md)
     - [Version Control](/courses/version-control/_home.md)
         - [What the Git](/courses/version-control/material/_what-the-git.md)
-        - [Git & Github](/courses/devops/_home.md)
+        - [The Hub](/courses/devops/_home.md)
         - [Branch and Merge](/courses/devops/_home.md)
     - [Programming](/courses/programming/_home.md)
     - [Databases](/courses/databases/_home.md)
