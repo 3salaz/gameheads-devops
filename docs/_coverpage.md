@@ -5,7 +5,7 @@
 > Documentation Tool For Students And Staff
 - Docs,Links,& Walkthroughs
 
-[Google Classroom](https://drive.google.com/drive/folders/1fNYLMtWmfz31NzLzDLVMBJAIR2lLS9Rs?usp=sharing)
+[Google Classroom](https://classroom.google.com/u/0/c/MzI0NzMzNDM1ODla)
 <a href="#/README">Material</a>
 
 <!-- [Archive](#) -->

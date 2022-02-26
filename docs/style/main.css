@@ -29,6 +29,9 @@
     --code-font-size: 1em;
     --code-font-weight: 500;
     --code-tab-size: 2;
+
+    --docsifytabs-border-color: #ededed;
+    --docsifytabs-tab-highlight-color: purple;
   }
   
   .sidebar>h1 {
