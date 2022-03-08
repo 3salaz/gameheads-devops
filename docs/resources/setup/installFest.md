@@ -1,21 +1,18 @@
 # Install Fest
 
-> [!ATTENTION]
-> Make sure to reach out if some downloads are missing or you have a error during your installation.
+### Download Links
 
-## **Download Links**
-
-### Browsers
+#### Browsers
   - [Chome](https://www.google.com/chrome/browser/desktop/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-### Text Editors
+#### Text Editors
   - [Atom](https://atom.io/)
   - [Sublime Text](https://www.sublimetext.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)
     - [Ext|Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-## **OS Specific**
+### **OS Specific**
 
 <!-- tabs:start -->
 
@@ -40,3 +37,5 @@ brew install node
 > Info abt xcode here
 <!-- tabs:end -->
 
+> [!ATTENTION]
+> Make sure to reach out if some downloads are missing or you have a error during your installation.

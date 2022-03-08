@@ -1,43 +1,34 @@
-# Hello, Testing 1,2,3
 
-Testing out some plugin down below, will be adding more soon that we can use within the lessons
-
-> [!NOTE]
-> An alert of type 'note' using global style 'callout'.
+# Classes
 
 > [!TIP]
-> An alert of type 'note' using global style 'callout'.
+> Select the class assigned to you to begin your courses. Scroll to the bottom for any updated links.
 
-> [!WARNING]
-> An alert of type 'note' using global style 'callout'.
+<div id="classSelection" class="class-selection-wrapper">
 
-> [!ATTENTION]
-> An alert of type 'note' using global style 'callout'.
+[![Fundametal Courses](./media/Tekperfect-Banners/1.svg)](/classes/fundamentals/_home.md)
 
-## Tabs 
+[![Devops Courses](./media/Tekperfect-Banners/2.svg)](/classes/devops/_home.md)
+
+</div>
+
 <!-- tabs:start -->
 
-#### **Mac Setup**
+#### **Fundamentals**
 
-Instructions for mac users
+Be prepared for the start of class __Saturday, March 19th, 2022__
 
-#### **Windows**
+> [!ATTENTION]
+> - Take A Look at the prerequisites for next week, try and complete installs as soon as possible to ensure you do not fall behind, get on the stackoverflow page to ask questions and get help.
 
-Instructions for windows users
 
-#### **Linux**
+#### **Devops**
 
-Instructions for linux users
-
+Be prepared for the start of class __Saturday, March 19th, 2022__
 <!-- tabs:end -->
 
-```javascript
-const a = 1;
-const b = 2;
-const c = 3;
-```
 
-<div id="gitalk-container"></div>
+<!-- <div id="gitalk-container"></div>
 
 
 <script>
@@ -52,4 +43,4 @@ const c = 3;
 })
 
 gitalk.render('gitalk-container')
-</script>
+</script> -->

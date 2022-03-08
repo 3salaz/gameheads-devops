@@ -1,6 +1,6 @@
-![logo](https://gameheadsoakland.org/wp-content/uploads/2021/06/gh-logo-700.png)
+![logo](https://images.squarespace-cdn.com/content/v1/60390a41dc3adf261f1617c0/1623711879488-A1TCGBJN6XDPVBSBXBDN/TP-LogoMark-07-v001.png?format=1500w)
 
-# Gameheads | Devops Fundamentals <small>2022-2023</small>
+# Tekperfect | Devops Fundamentals <small>2022-2023</small>
 
 > Documentation Tool For Students And Staff
 - Docs,Links,& Walkthroughs

@@ -1,16 +1,6 @@
-- **📚 Courses**
-    - [Operating Systems](/courses/os/_home.md)
-        - [Linux](/courses/devops/_home.md)
-        - [Windows](/courses/devops/_home.md)
-        - [Mac](/courses/devops/_home.md)
-    - [Version Control](/courses/version-control/_home.md)
-        - [What the Git](/courses/version-control/material/_what-the-git.md)
-        - [The Hub](/courses/devops/_home.md)
-        - [Branch and Merge](/courses/devops/_home.md)
-    - [Programming](/courses/programming/_home.md)
-    - [Databases](/courses/databases/_home.md)
-    - [Networks](/courses/networks/_home.md)
-    - [Security](/courses/security/_home.md)
-
-- **Setup**
+- **[Home](/_home.md)**
+- **📚 Classes**
+    - [Fundamentals](/classes/fundamentals/_home.md)
+    - [Devops](/classes/devops/_home.md)
+- **🧰 Setup**
     - [InstallFest](/resources/setup/installFest.md)
