@@ -1,4 +1,5 @@
 @import './components/classSelection';
+
 :root {
     --base-font-weight: 400;
     --base-color: white;
@@ -32,7 +33,7 @@
     --code-tab-size: 2;
 
     --docsifytabs-border-color: #ededed;
-    --docsifytabs-tab-highlight-color: purple;
+    --docsifytabs-tab-highlight-color: orange;
   }
   
   .app-name-link img{
@@ -69,12 +70,12 @@
   }
   
   
-  .app-sub-sidebar>.active {
-    margin: 1em;
-    border-bottom: solid 2px #126893;
-    background-color: #12689336;
-    color: white;
-  }
+  // .app-sub-sidebar>.active {
+  //   margin: 1em;
+  //   border-bottom: solid 2px #126893;
+  //   background-color: #12689336;
+  //   color: white;
+  // }
   
   
   

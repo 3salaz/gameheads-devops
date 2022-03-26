@@ -3,12 +3,12 @@
     - [Fundamentals](/classes/fundamentals/_home.md)
     - [Devops](/classes/devops/_home.md)
 - **📖 Courses**
-    - [Operating Systems](/courses/os/_home.md)
-    - [Version Control](/courses/version-control/_home.md)
-    - [Programming](/courses/programming/_home.md)
-    - [Databases](/courses/databases/_home.md)
-    - [Networks](/courses/networks/_home.md)
-    - [Security](/courses/security/_home.md)
+    - [Operating Systems](/classes/fundamentals/courses/os/_home.md)
+    - [Version Control](/classes/fundamentals/courses/version-control/_home.md)
+    - [Programming](/classes/fundamentals/courses/programming/_home.md)
+    - [Databases](/classes/fundamentals/courses/databases/_home.md)
+    - [Networks](/classes/fundamentals/courses/networks/_home.md)
+    - [Security](/classes/fundamentals/courses/security/_home.md)
 
 - **🧰 Resources**
     - [Glossary](/resources/glossary.md)

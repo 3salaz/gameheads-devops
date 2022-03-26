@@ -1,0 +1,6 @@
+- **[🏚 Home](/_home.md)**
+- **📖 Material**
+    - [What The Git](/classes/fundamentals/courses/version-control/material/_what-the-git.md)
+    - [Clone Branch and Merge](/classes/fundamentals/courses/version-control/material/_clone-branch-and-merge.md)
+- **📄 Assignments**
+    - [My First Repo](classes/fundamentals/courses/version-control/assignments/_my-first-repo.md)

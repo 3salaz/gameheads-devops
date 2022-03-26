@@ -1,6 +1,7 @@
-- **[Home](/_home.md)**
+- **[🏚 Home](/_home.md)**
 - **📚 Classes**
     - [Fundamentals](/classes/fundamentals/_home.md)
     - [Devops](/classes/devops/_home.md)
-- **🧰 Setup**
+- **🧰 Resources**
+    - [Glossary](/resources/glossary.md)
     - [InstallFest](/resources/setup/installFest.md)

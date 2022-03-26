@@ -37,5 +37,5 @@ brew install node
 > Info abt xcode here
 <!-- tabs:end -->
 
-> [!ATTENTION]
+> [!TIP]
 > Make sure to reach out if some downloads are missing or you have a error during your installation.

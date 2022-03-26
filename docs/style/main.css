@@ -49,7 +49,7 @@
   --code-font-weight: 500;
   --code-tab-size: 2;
   --docsifytabs-border-color: #ededed;
-  --docsifytabs-tab-highlight-color: purple;
+  --docsifytabs-tab-highlight-color: orange;
 }
 
 .app-name-link img {
@@ -83,13 +83,6 @@ body:not(.ready) {
 
 .sidebar-nav > li > strong {
   background-color: #cccccc;
-}
-
-.app-sub-sidebar > .active {
-  margin: 1em;
-  border-bottom: solid 2px #126893;
-  background-color: #12689336;
-  color: white;
 }
 
 .markdown-section {
