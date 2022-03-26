@@ -17,4 +17,4 @@ Make sure you,
 - Created and (stackoverflow)[https://stackoverflow.com/] account, and joined the devops team.
 - Connected to the class calendar
 - Fill out evaluation form [here](https://docs.google.com/forms/d/1pu4Kerm9zIOmRS8WpvRl44PPvstDkh8l3hn2rhIw2Og/edit)
-- Complete [Install Fest](../../resources/setup/installFest.md)
+- Complete [Install Fest](../../resources/installFest.md)
