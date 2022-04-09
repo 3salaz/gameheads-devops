@@ -3,5 +3,5 @@
     - [Fundamentals](/classes/fundamentals/_home.md)
     - [Devops](/classes/devops/_home.md)
 - **🧰 Resources**
+    - [InstallFest](/resources/installFest.md)
     - [Glossary](/resources/glossary.md)
-    - [InstallFest](/resources/setup/installFest.md)
