@@ -12,5 +12,5 @@
 
 - **🧰 Resources**
     - [Glossary](/resources/glossary.md)
-    - [InstallFest](/resources/setup/installFest.md)
+    - [InstallFest](/resources/installFest.md)
     
