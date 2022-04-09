@@ -28,28 +28,93 @@ You have to create a file called index.html and put the following code in it:
 - **Use console log hello world and save file.**
 > 
 
+ ```javascript
+ console.log('hello world');
+ ```
+
 - **Use VsCode To Run Index File**
 
+Right click the Inded file and select run live browser. Check bottom right corner
+
 - **Open Developer Tools in Chrome**
-dskfsdk
+
+**Mac:**
+Option + Command + I
 
 - **✅ Check Results**
 
+Check the console tag to view the results.
+
 ## Ex. 2 | Run Node Server
 
-**We're gonna use npm node and express to create a server running on a specific port of our choosing.**
+**Obj: We're gonna use npm node and express to create a server running on a specific port of our choosing.**
 
-> Separate Front End and Back End
-We have everything related to
+> - **Initialize a npm package**
 
-> Use console log hello world and save file.
+```terminal
+    npm init
+```
 
-> Use Vs Code To Run Index File
+> - **Install Packages needed**
+
+```
+npm install express --save
+npm install body-parser --save
+```
+
+> - **Create a server.js file**
+
+```
+const express = require('express');
+const bodyParser = require("body-parser");
+
+const app = express();
+const PORT = 3000;
 
 
-> Open Developer Tools in Chrome
+app.use(bodyParser.json());
+
+app.get('/', (req, res) => {
+    res.send('Hello World!');
+});
+
+const sayHi = (req, res) => {
+    res.send("Hi!");
+};
+
+app.listen(PORT, () => console.log(`Server listening on port: ${PORT}`));
+````
+
+> - **Configure Package.json**
+
+``` json
+{
+  "name": "ex-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
+```
+
+> - **Run the server**
+```
+    node server.js
+```
+---
+### Resources 🔗
+- [JamBoard| Diagrams](https://jamboard.google.com/d/1e1fx-KsHN7Karl-oSaTC5WdXFYRHPlx28Lc_eNmjOTI/edit?usp=sharing)
 
 
-> Check Results
 
 
