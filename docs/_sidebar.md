@@ -1,7 +1,13 @@
-- **[🏚 Home](/_home.md)**
-- **📚 Classes**
-    - [Fundamentals](/classes/fundamentals/_home.md)
-    - [Devops](/classes/devops/_home.md)
+- **[🏚 Home](_home.md)**
+- **[🤖 Devops](./classes/devops/_home.md)**
+- **[🎮 Gameheads](./classes/gameheads/_home.md)**
+- **📚 Courses**
+    - [💻 Operating Systems](/classes/gameheads/courses/os/_home.md)
+    - [🧑🏽‍💻 Programming](/classes/devops/courses/programming/_home.md)
+    - [🌐 Databases](/classes/gameheads/courses/databases/_home.md)
+    - [🕹 Version Control](/classes/gameheads/courses/version-control/_home.md)
+    - [🚨 Security](/classes/gameheads/courses/security/_home.md)
+    - [📡 Networks](/classes/gameheads/courses/networks/_home.md)
 - **🧰 Resources**
-    - [InstallFest](/resources/installFest.md)
-    - [Glossary](/resources/glossary.md)
+    - [🔌 InstallFest](/resources/installFest.md)
+    - [📗 Glossary](/resources/glossary.md)

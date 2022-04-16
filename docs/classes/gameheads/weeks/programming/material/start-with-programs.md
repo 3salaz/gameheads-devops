@@ -6,7 +6,7 @@
 
 > Look for a extention that you feel will help you in your development.
 
-Go to [](https://www.tabnine.com/blog/top-vscode-extensions/) and install a plugin for Vs Code
+Go to [Extentions](https://www.tabnine.com/blog/top-vscode-extensions/) and install a plugin for Vs Code
 
 > Open your terminal with vs code
 

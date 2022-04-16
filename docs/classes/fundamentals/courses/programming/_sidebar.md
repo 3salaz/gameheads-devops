@@ -1,6 +1,0 @@
-- **[🏚 Home](/_home.md)**
-- **📖 Material**
-    - [Getting Started](/classes/fundamentals/courses/programming/material/start-with-programs.md)
-    - [Javascript](/classes/fundamentals/courses/programming/material/javascript-to-type-script.md)
-- **📄 Assignments**
-    - [Javascript Library](/classes/fundamentals/courses/programming/assignments/Javascript-Lab1.md)
