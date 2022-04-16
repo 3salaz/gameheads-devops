@@ -1,0 +1,73 @@
+.grid{
+    display: grid;
+    grid-template-columns: [first] 50% [line2] 50%;
+    grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];
+    box-sizing: border-box;
+    .grid-item{
+        padding: 1em;
+        text-align: center;
+        text-decoration: none;
+        
+    }
+}
+#previousWeeks{
+    details{
+        summary{
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #fff;
+            background-color: rgb(245, 123, 9);
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        }
+    }
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 100%;
+        box-sizing: border-box;
+        .grid-item{
+            margin: 1em;
+            box-sizing: border-box;
+            background-color: rgb(255, 255, 255);
+            padding: 1em;
+            border-radius: 1em;
+            text-decoration: none;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+            max-height: 500px;
+            .item-header{
+                color: rgb(45, 45, 45);
+            }
+            .item-text{
+                overflow-y: auto;
+                max-height: 150px;
+            }
+            .item-links{
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                text-align: center;
+                .btn{
+                    background-color: rgb(245, 123, 9);
+                    color: white;
+                    border: none;
+                    border-radius: 3px;
+                    padding: 6px 10px 6px 5px;
+                    height: var(--sidebar-toggle-height);
+                    transition: background-color 0.5s ease;
+                    &:hover{
+                        background-color: white;
+                        color: rgb(245, 123, 9);
+                        border: solid black 1px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.full-width{
+    width: 100%;
+}

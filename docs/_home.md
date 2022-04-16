@@ -11,12 +11,67 @@
 
 <!-- tabs:start -->
 
-#### **Fundamentals**
+#### **Devops Lessons**
+
+<div class="grid">
+
+<div class="grid-item">
+    <img class="full-width" src="https://firebasestorage.googleapis.com/v0/b/gh-fundamentals.appspot.com/o/Covers%2FProgramming.png?alt=media&token=9a0f95d7-9730-4604-a365-4f5f2b9b225a">
+</div>
+<div class="grid-item">
+    <img class="full-width" src="https://firebasestorage.googleapis.com/v0/b/gh-fundamentals.appspot.com/o/Covers%2FProgramming.png?alt=media&token=9a0f95d7-9730-4604-a365-4f5f2b9b225a">
+</div>
+
+</div>
 
 
 > [!ATTENTION]
 > - Take A Look at the prerequisites for each week, try and complete installs as soon as possible to ensure you do not fall behind, get on the stackoverflow page to ask questions and get help.
 
+
+#### **Gameheads Lessons**
+
+<div class="grid">
+
+<div class="grid-item">
+    <a href="-">
+    <img class="full-width" src="---" alt="Lesson5">
+    Lesson5
+    </a>
+</div>
+<div class="grid-item">
+    <a href="-">
+    <img class="full-width" src="---" alt="Lesson5">
+    Lesson5
+    </a>
+</div>
+<div class="grid-item">
+    <a href="-">
+    <img class="full-width" src="---" alt="Lesson5">
+    Lesson5
+    </a>
+</div>
+<div class="grid-item">
+    <a href="-">
+    <img class="full-width" src="---" alt="Lesson5">
+    Lesson5
+    </a>
+</div>
+<div class="grid-item">
+    <a href="-">
+    <img class="full-width" src="---" alt="Lesson5">
+    Lesson5
+    </a>
+</div>
+<div class="grid-item">
+    <a href="-">
+    <img class="full-width" src="---" alt="Lesson5">
+    Lesson5
+    </a>
+</div>
+
+
+</div>
 
 <!-- tabs:end -->
 
