@@ -1,9 +1,9 @@
 > [!TIP]
-> Select the class assigned to you to begin your courses. Scroll to the bottom for any updated links.
+> Select the class assigned to you to begin your courses. Scroll to the bottom for any updated links. Use the section below to toggle between classes and open the appropriate course.
 
 <div id="classSelection" class="class-selection-wrapper">
 
-[![Fundametal Courses](./media/Tekperfect-Banners/1.svg)](/classes/fundamentals/_home.md)
+[![Fundametal Courses](./media/Tekperfect-Banners/1.svg)](/classes/gameheads/_home.md)
 
 [![Devops Courses](./media/Tekperfect-Banners/2.svg)](/classes/devops/_home.md)
 

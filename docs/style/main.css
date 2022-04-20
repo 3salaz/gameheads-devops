@@ -24,6 +24,14 @@
   border: solid orange 3px;
 }
 
+.sidebar-nav hr {
+  background-color: orange;
+}
+
+iframe {
+  width: 100% !important;
+}
+
 .grid {
   display: -ms-grid;
   display: grid;
