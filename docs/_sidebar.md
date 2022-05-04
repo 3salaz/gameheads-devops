@@ -1,7 +1,12 @@
-- **[🏚 Home](/_home.md)**
-- **📚 Classes**
-    - [Fundamentals](/classes/fundamentals/_home.md)
-    - [Devops](/classes/devops/_home.md)
-- **🧰 Resources**
+**[🏚 Home](/_home.md)**
+- **🏁 - Tracks**
+    - [🎨 Art](/classes/devops/_home.md)
+    - [🔊 Sound](/classes/devops/_home.md)
+    - [🧑🏽‍💻 Programming](/classes/programming/_home.md)
+    - [🪜 Level Designers](/classes/devops/_home.md)
+    - [🎮 Game Designers](/classes/devops/_home.md)
+    - [📖 Narrative](/classes/devops/_home.md)
+    - [🎥 Virtual Production](/classes/devops/_home.md)
+- **🧰 - Resources**
     - [Glossary](/resources/glossary.md)
     - [InstallFest](/resources/setup/installFest.md)

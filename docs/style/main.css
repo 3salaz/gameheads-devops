@@ -24,6 +24,25 @@
   border: solid orange 3px;
 }
 
+.sidebar .app-name {
+  padding: 0 1em;
+  margin: 0;
+}
+
+.sidebar .sidebar-nav p:nth-child(1) {
+  background-color: #0095DA;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: center;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+          box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.sidebar .sidebar-nav p:nth-child(1) a {
+  text-decoration: none;
+  color: white;
+}
+
 :root {
   --base-font-weight: 400;
   --base-color: white;
@@ -52,10 +71,6 @@
   --docsifytabs-tab-highlight-color: orange;
 }
 
-.app-name-link img {
-  width: auto !important;
-}
-
 body:not(.ready) {
   overflow: scroll;
 }
@@ -63,14 +78,6 @@ body:not(.ready) {
 .sidebar > h1 {
   background-color: white;
   margin: 0px 10px 10px 0px;
-}
-
-.sidebar > h1 > a > img {
-  height: 100px;
-}
-
-.sidebar > h1 > a > img {
-  width: 300px;
 }
 
 .sidebar > li > p {
@@ -160,11 +167,6 @@ body .docsify-copy-code-button {
 
 body .docsify-copy-code-button.success {
   color: #11A31B;
-}
-
-.app-name-link img {
-  height: 150px;
-  width: 150px;
 }
 
 table > tbody > tr > td::before {
