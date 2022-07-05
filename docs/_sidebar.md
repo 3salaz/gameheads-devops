@@ -1,9 +1,7 @@
-- **[🏚 Home](_home.md)**
----
-- **[🤖 Devops](/courses/devops/_home.md)**
----
-- **[🎮 GH | Fundamentals](./classes/gameheads/_home.md)**
----
-- **🧰 Resources**
-    - [🔌 InstallFest](/resources/installFest.md)
-    - [📗 Glossary](/resources/glossary.md)
+**[🏚 Home](_home.md)**
+
+**[👩🏽‍🏫 Lessons](/tracks/classroom/tracks/intro/_home.md)**
+- [Programming](/courses/programming/_home.md)
+- [Web Development](/courses/web-development/_home.md)
+- [Databases](/courses/databases/_home.md)
+- [Web Development](/courses/web-development/_home.md)

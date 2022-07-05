@@ -1,18 +1,17 @@
 - **[🏚 Home](/_home.md)**
----
-- **[📚 Courses](../devops/_home.md)**
----
-- **✍🏽 Material**
-    - [Web Development](/courses/programming/material/webdev/intro-to-the-web.md)
-    - [Javascript](/courses/programming/material/)
-    - [Python](./courses/programming/_home.md)
+# Javascript
+
+- **📚 Lessons**
+    - [Intro To The Web](/courses/programming/material/webdev/intro-to-the-web.md)
+    - [Javascript 101](/courses/programming/material/)
+    - [Javascript For Web Dev](./courses/programming/_home.md)
 ---
 - **🏋🏽‍♀️ Exercises**
     - [Setup Web Client](./courses/programming/_home.md)
     - [Setup Html Structure](./courses/programming/_home.md)
     - [Console Log Hello](./courses/programming/_home.md)
 ---
-- **🧪 Labs**
+- **🧪Labs**
     - [Create A Web API](./courses/programming/_home.md)
 ---
 - **🎥 Videos**
@@ -22,4 +21,3 @@
 ---
 - **🧰 Resources**
     - [Glossary](/resources/glossary.md)
-   

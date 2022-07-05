@@ -1,15 +1,13 @@
 # Tekperfect Glossary
 
 ---
-
-### Programming
+## Programming
 
 > Computer programming is the process of performing a particular computation (or more generally, accomplishing a specific computing result), usually by designing/building an executable computer program.
 
 - [Wiki](https://en.wikipedia.org/wiki/Computer_programming)
 ---
-
-### Integrated Development Environment (IDE)
+## Integrated Development Environment (IDE)
 
 > An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger. Some IDEs, such as NetBeans and Eclipse, contain the necessary compiler, interpreter, or both; others, such as SharpDevelop and Lazarus, do not.
 
@@ -17,7 +15,7 @@
 
 ---
 
-### Javascript
+## Javascript
 
 > JavaScript is a high-level, interpreted programming language. It was designed for creating networked computer applications, but is used in many computing platforms, including client-side web browsers, servers, and embedded devices. JavaScript is designed to make it possible to make programs that can be run in a web browser, on a server, or in an embedded environment.
 

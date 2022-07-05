@@ -1,0 +1,12 @@
+- **[🏚 Home](_home.md)**
+- **📚 Courses**
+    - [Infrustructure As Code](/courses/infrastructure-as-code/_home.md)
+    - [Cloud Computing](/courses/cloud-computing/_home.md)
+    - [SaaS Tools](/courses/saaS-Tools/_home.md)
+    - [Consulting](/courses/consulting/_home.md)
+    - [Crypto](/courses/crypto/_home.md)
+- **🧰 Resources**
+    - [Resume Template](-)
+    - [Portfolios](-)
+    - [Glossery](-)
+    - [Client Portals](-)
